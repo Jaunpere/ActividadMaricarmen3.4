@@ -1,5 +1,3 @@
-POST Se utiliza para crear o enviar datos al servidor.
+DirectoryIndex
 
-PUT Sirve para actualizar o reemplazar un recurso existente.
-
-PATCH Se usa para modificar parcialmente un recurso
+AllowOverride
